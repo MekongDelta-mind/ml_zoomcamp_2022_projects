@@ -1,16 +1,10 @@
-# ML Zoomcamp 2022 Capstone
+# ML Zoomcamp 2022
 
-## 1. Description of the problem
+## Description of the problem
 
-Source: [Shill Bidding Dataset](https://archive.ics.uci.edu/ml/datasets/Shill+Bidding+Dataset)
-
-
-
-
-## . Instructions on how to run the project
  
-### 1. Cloning the repo
 
-### 2. Running the docker command
+Source: [chronic-kidney-disease](https://www.openml.org/search?type=data&status=active&id=42972&sort=runs)
 
-### 3. Running the predict test script to check if the image is wokring fine or not
+## Instructions on how to run the project
+
